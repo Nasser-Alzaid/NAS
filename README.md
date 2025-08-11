@@ -1,4 +1,3 @@
-# NAS
 <!-- Profile README for Nasser-Alzaid -->
 
 <h1 align="center">Hi 👋, I'm Nasser Alzaid</h1>
@@ -54,5 +53,5 @@
 ---
 
 ### 🔗 Connect
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" /></a>
-<a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" /></a>
+<a href="na99er.mg@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" /></a>
+<a href="www.linkedin.com/in/nasser-alzaid-7b6886212"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" /></a>

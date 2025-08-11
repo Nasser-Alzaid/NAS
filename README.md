@@ -1,1 +1,58 @@
 # NAS
+<!-- Profile README for Nasser-Alzaid -->
+
+<h1 align="center">Hi 👋, I'm Nasser Alzaid</h1>
+<p align="center">AI graduate • Web developer • ML/DL enthusiast .  AWS Developer</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nasser-Alzaid&label=Profile%20views&style=flat" alt="profile views" />
+</p>
+
+- 🔭 Currently building **SOCVision 2.0** with **Django** (AI/ML for SOC automation)  
+- 🧠 Interests: **LLM agents, GenAI, computer vision**  
+- 🌱 Learning: **Cloud (AWS), TensorFlow, PyTorch**  
+- 🤝 Open to collaborating on **security analytics** and **AI-driven tooling**
+
+---
+
+### 🛠️ Languages & Tools
+<p>
+  <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32"/>
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>
+  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="32"/>
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="32"/>
+  <img alt="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="32"/>
+  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/>
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
+  <img alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32"/>
+  <img alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="32"/>
+  <img alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="32"/>
+  <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="32"/>
+  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32"/>
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nasser-Alzaid&show_icons=true&rank_icon=github&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasser-Alzaid&layout=compact&hide_border=true" height="150" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=Nasser-Alzaid&hide_border=true" height="150" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+- **SOCVision** — AI-powered SOC analytics, dashboards & automated insights  
+- **LesionLens** — DL pipeline for medical imaging (YOLO + Django REST)  
+- **AI Agents on AWS** — Bedrock/OpenAI tool-use & automation experiments
+
+---
+
+### 🔗 Connect
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" /></a>
+<a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" /></a>

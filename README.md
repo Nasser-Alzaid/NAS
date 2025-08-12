@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nasser</h1>
 <p align="center">AI graduate • Web developer • ML/DL enthusiast .  AWS Developer</p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Nasser-Alzaid&label=Profile%20views&style=flat" alt="profile views" />
 </p>
 
@@ -59,3 +59,5 @@
 ### 🔗 Connect
 <a href="mailto:na99er.mg@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" /></a>
 <a href="https://www.linkedin.com/in/nasser-alzaid-7b6886212/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" /></a>
+<a href="https://x.com/Naz_Junior0"><img src="https://img.shields.io/badge/Twitter-@Naz_Junior0-1DA1F2?logo=twitter&logoColor=white" /></a>
+

@@ -38,16 +38,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nasser-Alzaid&show_icons=true&rank_icon=github&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasser-Alzaid&layout=compact&hide_border=true" height="150" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=Nasser-Alzaid&hide_border=true" height="150" />
-</p>
-
----
 
 ### 🚀 Featured Projects
 - **SOCVision** — AI-powered SOC analytics, dashboards & automated insights   

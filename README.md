@@ -57,17 +57,8 @@
 ---
 
 ### 🔗 Connect
-<p>
-  <a href="mailto:na99er.mg@gmail.com" title="Email">
-    <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="22" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nasser-alzaid-7b6886212/" title="LinkedIn">
-    <img alt="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="22" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/Naz_Junior0" title="X">
-    <img alt="X" src="https://cdn.simpleicons.org/x/ffffff" height="22" />
-  </a>
-</p>
-
+<a href="mailto:na99er.mg@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" /></a>
+<a href="https://www.linkedin.com/in/nasser-alzaid-7b6886212/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" /></a>
+<a href="https://x.com/Naz_Junior0">
+  <img src="https://img.shields.io/badge/@Naz_Junior0-black?logo=x&logoColor=white" />
+</a>

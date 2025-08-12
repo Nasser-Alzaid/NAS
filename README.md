@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nasser</h1>
 
 <p align="center">AI graduate • Web developer • ML/DL enthusiast .  AWS Developer</p>
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Nasser-Alzaid&label=Profile%20views&style=flat" alt="profile views" />
 </p>
 
